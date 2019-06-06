@@ -161,6 +161,6 @@ if __name__ == '__main__':
     main()
 ~~~
 
-![数据库去重]([https://github.com/DeerKing007/Crawler_learning_notes/blob/master/crawler_notes/picture/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8E%BB%E9%87%8D.png](https://github.com/DeerKing007/Crawler_learning_notes/blob/master/crawler_notes/picture/数据库去重.png))
+![数据库去重](https://github.com/DeerKing007/Crawler_learning_notes/blob/master/crawler_notes/picture/数据库去重.png))
 
 
